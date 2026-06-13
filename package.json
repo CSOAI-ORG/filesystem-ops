@@ -1,5 +1,5 @@
 {
-  "name": "@csgaglobal/filesystem-ops",
+  "name": "@meok-ai-labs/filesystem-ops",
   "version": "1.0.0",
   "description": "File system operations with directory management, file search, bulk operations, and integrity verification.",
   "main": "dist/index.js",
@@ -20,10 +20,10 @@
   "devDependencies": {
     "typescript": "^5.7.3"
   },
-  "author": "CSGA Global",
+  "author": "MEOK Labs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csga-global/mcp-servers",
+    "url": "https://github.com/meok-ai/mcp-servers",
     "directory": "packages/filesystem-ops"
   },
   "keywords": [
